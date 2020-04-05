@@ -1,2 +1,3 @@
-# myportfolio
-my digitial portfolio 
+# Andre Joseph's Portfolio
+
+This is my professional portfolio. It uses AWS and REACTJS.
